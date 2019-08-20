@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'This is Demo of vue use docker'
+      msg: 'This is a Demo of vue use docker'
     }
   }
 }
